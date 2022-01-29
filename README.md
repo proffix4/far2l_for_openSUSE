@@ -1,0 +1,1 @@
+far2l_for_openSUSE
